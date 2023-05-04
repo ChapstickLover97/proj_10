@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    height: 15vh;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    font-family: DejaVu Sans Mono, monospace;
+};
+
+.header #headerText{
+    background-color: blue;
+}

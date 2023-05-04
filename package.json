@@ -1,0 +1,17 @@
+{
+    "name": "team-profile-generator",
+    "description": "Mockup of workplace employee info generator",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^27.4.7"
+    }
+  }
+  
+  
